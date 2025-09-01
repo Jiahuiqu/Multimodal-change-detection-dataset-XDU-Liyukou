@@ -14,8 +14,11 @@ The dataset encompasses diverse scenes,including trees, roads, soil, and buildin
 If you use the **XDU-Liyukou dataset** in your research, please cite:
 
 @article{XDU_Liyukou_2025,
+
   author  = {Wenqian Dong, Junying Ren, Song Xiao, Leyuan Fang, Jiahui Qu, and Yunsong Li,
+  
   title   = {Cycle Translation-Based Collaborative Training for Hyperspectral-RGB Multimodal Change Detection},
   journal = {IEEE Transactions on Image Processing},
+  
   year    = {2025},
   }

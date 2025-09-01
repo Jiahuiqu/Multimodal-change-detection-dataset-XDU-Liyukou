@@ -1,1 +1,1 @@
-# Multimodal-change-detection-dataset-Liyukou
+# Multimodal change detection dataset XDU-Liyukou

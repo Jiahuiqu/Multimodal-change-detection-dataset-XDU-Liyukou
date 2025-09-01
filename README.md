@@ -9,6 +9,8 @@ The **XDU-Liyukou dataset** is designed for **multimodal change detection**. It 
 
 The dataset encompasses diverse scenes,including trees, roads, soil, and buildings, showcasing the dynamic changes of various ground objects such as farmlands and land covers. 
 
+The source files of the dataset are provided in the [Releases](../../releases) section of this repository.
+
 ## Citation
 
 If you use the **XDU-Liyukou dataset** in your research, please cite:

@@ -5,7 +5,7 @@ The **XDU-Liyukou dataset** is designed for **multimodal change detection**. It 
 
 - **HSI** : collected by the Micro-Hyperspec sensor, spatial size 250 × 125, with 194 spectral bands covers a spectral range of 0.4–1.0 um. 
   
-- **Ground-Truth Map** :The ground-truth map contains three colors, where green pixels and the yellow pixels represent the changed and unchanged areas, respectively, and the blue pixels represent objects whose changed status is uncertain
+- **Ground-Truth Map** :The ground-truth map contains three colors, where green pixels and the yellow pixels represent the changed and unchanged areas, respectively, and the blue pixels represent objects whose changed status is uncertain.
 
 The dataset encompasses diverse scenes,including trees, roads, soil, and buildings, showcasing the dynamic changes of various ground objects such as farmlands and land covers. 
 

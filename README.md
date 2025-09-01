@@ -19,7 +19,7 @@ If you use the **XDU-Liyukou dataset** in your research, please cite:
   title   = {Cycle Translation-Based Collaborative Training for Hyperspectral-RGB Multimodal Change Detection},
   journal = {IEEE Transactions on Image Processing},
   year    = {2025},
-  volume={},
-  number={},
-  pages={},
+  volume  = {},
+  number  = {},
+  pages   = {},
 }
